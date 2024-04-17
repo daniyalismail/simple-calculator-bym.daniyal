@@ -1,6 +1,6 @@
 {
   "name": "simple-calculator-bym.daniyal",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "\"A Simple Calculator\"",
   "main": "index.js",
   "type": "module",
@@ -11,7 +11,8 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "inquirer": "^9.2.16"
+    "inquirer": "^9.2.16",
+    "simple-calculator-bym.daniyal": "^1.0.1"
   },
   "devDependencies": {
     "@types/inquirer": "^9.0.7"
